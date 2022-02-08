@@ -4,5 +4,5 @@ script:
  - python hello.py
 os: linux
 group: stable
-dist: rhel
+dist: trusty
 
